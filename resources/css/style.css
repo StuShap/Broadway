@@ -22,6 +22,7 @@ h1, h2, h3 {
 /* banners at top and middle of the page that include the flat iron image */
 .banner {
   color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg);
 }
 /*bottom nav bar and copyright */
 footer {
