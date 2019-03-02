@@ -1,0 +1,31 @@
+html {
+  font-family: helvetica;
+  background-color: white;
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+h1, h2, h3 {
+  font-weight: bold;
+}
+/* navigation bar at the top of the page */
+.nav {
+  font-size: 18px;
+}
+/* banners at top and middle of the page that include the flat iron image */
+.banner {
+  color: white;
+}
+/*bottom nav bar and copyright */
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
